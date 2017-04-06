@@ -10159,6 +10159,7 @@ button.close {
       -ms-flex-align: center;
           align-items: center;
   /*background: linear-gradient(to right, red, orange);*/
+  background-color: rgba(240, 240, 240, 0.4);
     }
   /* line 24, /Users/anne/code/OObatwomanOO/le_wagon_by_night/source/stylesheets/pages/_home.scss */
   .header h1 {
